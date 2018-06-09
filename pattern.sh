@@ -40,4 +40,4 @@ done
 
 
 
-echo -e "\n\n\t\t\t Whenever you need help, Tecmint.com is always there"
+echo -e "\n\n\t\t\t Whenever you need help, Andrew is always there"
